@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rorschach-scoring/static/css/main.d1b05096.chunk.css",
+    "main.js": "/rorschach-scoring/static/js/main.d513d4d0.chunk.js",
+    "main.js.map": "/rorschach-scoring/static/js/main.d513d4d0.chunk.js.map",
+    "runtime-main.js": "/rorschach-scoring/static/js/runtime-main.0fb046a1.js",
+    "runtime-main.js.map": "/rorschach-scoring/static/js/runtime-main.0fb046a1.js.map",
+    "static/js/2.7ee57c45.chunk.js": "/rorschach-scoring/static/js/2.7ee57c45.chunk.js",
+    "static/js/2.7ee57c45.chunk.js.map": "/rorschach-scoring/static/js/2.7ee57c45.chunk.js.map",
+    "index.html": "/rorschach-scoring/index.html",
+    "precache-manifest.051c631479a81fc5ac7c2e32ede435d2.js": "/rorschach-scoring/precache-manifest.051c631479a81fc5ac7c2e32ede435d2.js",
+    "service-worker.js": "/rorschach-scoring/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/rorschach-scoring/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.7ee57c45.chunk.js.LICENSE": "/rorschach-scoring/static/js/2.7ee57c45.chunk.js.LICENSE",
+    "static/media/logo.svg": "/rorschach-scoring/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fb046a1.js",
+    "static/js/2.7ee57c45.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.d513d4d0.chunk.js"
+  ]
+}
