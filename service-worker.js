@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rorschach-scoring/precache-manifest.5bb7ccc0b9390dd3346c50ccd2339c17.js"
+  "/rorschach-scoring/precache-manifest.a7dc3f917e600448e0cc71ab380bdddb.js"
 );
 
 self.addEventListener('message', (event) => {

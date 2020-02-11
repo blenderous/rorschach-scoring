@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "833e9b3d805b23ed4d673907744951f4",
+    "revision": "432f419647ca705b64f33fe495a0aed6",
     "url": "/rorschach-scoring/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rorschach-scoring/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "a4da1385030e5014e958",
+    "revision": "87a8168f6a5d0e8929ef",
     "url": "/rorschach-scoring/static/css/main.30026a13.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rorschach-scoring/static/js/2.d3a83421.chunk.js.LICENSE"
   },
   {
-    "revision": "a4da1385030e5014e958",
-    "url": "/rorschach-scoring/static/js/main.12bdd70c.chunk.js"
+    "revision": "87a8168f6a5d0e8929ef",
+    "url": "/rorschach-scoring/static/js/main.ca32c30c.chunk.js"
   },
   {
     "revision": "173f03f882e9de016b09",
