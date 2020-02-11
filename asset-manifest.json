@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/rorschach-scoring/static/css/main.d1b05096.chunk.css",
-    "main.js": "/rorschach-scoring/static/js/main.d513d4d0.chunk.js",
-    "main.js.map": "/rorschach-scoring/static/js/main.d513d4d0.chunk.js.map",
+    "main.css": "/rorschach-scoring/static/css/main.30026a13.chunk.css",
+    "main.js": "/rorschach-scoring/static/js/main.12bdd70c.chunk.js",
+    "main.js.map": "/rorschach-scoring/static/js/main.12bdd70c.chunk.js.map",
     "runtime-main.js": "/rorschach-scoring/static/js/runtime-main.0fb046a1.js",
     "runtime-main.js.map": "/rorschach-scoring/static/js/runtime-main.0fb046a1.js.map",
-    "static/js/2.7ee57c45.chunk.js": "/rorschach-scoring/static/js/2.7ee57c45.chunk.js",
-    "static/js/2.7ee57c45.chunk.js.map": "/rorschach-scoring/static/js/2.7ee57c45.chunk.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/rorschach-scoring/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.d3a83421.chunk.js": "/rorschach-scoring/static/js/2.d3a83421.chunk.js",
+    "static/js/2.d3a83421.chunk.js.map": "/rorschach-scoring/static/js/2.d3a83421.chunk.js.map",
     "index.html": "/rorschach-scoring/index.html",
-    "precache-manifest.051c631479a81fc5ac7c2e32ede435d2.js": "/rorschach-scoring/precache-manifest.051c631479a81fc5ac7c2e32ede435d2.js",
+    "precache-manifest.5bb7ccc0b9390dd3346c50ccd2339c17.js": "/rorschach-scoring/precache-manifest.5bb7ccc0b9390dd3346c50ccd2339c17.js",
     "service-worker.js": "/rorschach-scoring/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/rorschach-scoring/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.7ee57c45.chunk.js.LICENSE": "/rorschach-scoring/static/js/2.7ee57c45.chunk.js.LICENSE",
-    "static/media/logo.svg": "/rorschach-scoring/static/media/logo.5d5d9eef.svg"
+    "static/css/2.17e5ed98.chunk.css.map": "/rorschach-scoring/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.30026a13.chunk.css.map": "/rorschach-scoring/static/css/main.30026a13.chunk.css.map",
+    "static/js/2.d3a83421.chunk.js.LICENSE": "/rorschach-scoring/static/js/2.d3a83421.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.0fb046a1.js",
-    "static/js/2.7ee57c45.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.d513d4d0.chunk.js"
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.d3a83421.chunk.js",
+    "static/css/main.30026a13.chunk.css",
+    "static/js/main.12bdd70c.chunk.js"
   ]
 }
